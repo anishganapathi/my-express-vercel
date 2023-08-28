@@ -10,7 +10,7 @@ These instructions will help you set up the project and get it running on your l
 
 Before you begin, make sure you have the following installed on your system:
 
-- Node.js (version xx.x or higher)
+- Node.js (version v18.16.0)
 - npm (Node Package Manager, typically comes with Node.js installation)
 
 ### Installing
