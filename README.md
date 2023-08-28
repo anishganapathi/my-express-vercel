@@ -19,12 +19,15 @@ Before you begin, make sure you have the following installed on your system:
 
 ```bash
 git clone https://github.com/your-username/sample-express-server.git
+Navigate to the project directory:
 cd sample-express-server
 
+Install the required dependencies:
 npm install
 
+Running the Server
+To start the Express server, run the following command:
 npm start
 
 
 
-Remember to replace the placeholder information in square brackets with your actual project details. This `README.md` template should give anyone visiting your repository a clear understanding of the project's purpose, how to set it up, and how to run the server.
